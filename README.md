@@ -46,6 +46,8 @@ class CustomerAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-10-27 220920.png>)
+![Screenshot 2024-10-28 133546](https://github.com/user-attachments/assets/bfb60d46-278a-4a7d-969c-5b24c12a34ee)
+
 
 
 ## RESULT
